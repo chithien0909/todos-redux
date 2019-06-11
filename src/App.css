@@ -1,0 +1,13 @@
+body{
+    background: #FCF7F8;
+}
+.App{
+    font-family: 'Muli', sans-serif;
+    max-width: 600px;
+    margin: 100px auto;
+}
+.App .title{
+    font-size: 40px;
+    text-align: center;
+    color: #F1B5CB;
+}
